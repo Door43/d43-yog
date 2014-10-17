@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yog:home|Door43 (yog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yog|d43-yog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yog/archive/master.zip|d43-yog.zip]]
+
+**Recent Changes**
+{{changes>ns = yog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yog|Ethnologue data]]
+
